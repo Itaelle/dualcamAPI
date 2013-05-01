@@ -2,7 +2,7 @@
 #include "CalibrationManager.h"
 #include <iostream>
 #include <exception>
-
+//Test
 CalibrationManager::CalibrationManager(std::string fName, int nx, int ny, int useUncalibrated, double squareSize)
 {
 	fileName = fName;
